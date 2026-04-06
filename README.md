@@ -32,6 +32,14 @@ This section is made purely to document the feeling & discoveries & issues i cam
 * Without knowing i broke my 5th rule, while eating a small snack i just went back to YT, and not even seen 5 shorts and my brain already feels like mush. <br> I am installing a Anti Shorts Right now [link is in the links Section](#this--all-projects-from-this-github-has-been-build-without-ai-brthe-following-documentations-have-been-used-in-this-project)
 * Writing the previous thing, i did HAVE some autocomplete but it wasnt AI autocomplete, so ill update the rules from No autocomplete -> No AI Autocomplete)
 
+#### Ending
+If anyone came this far reading this, i want to say thank you <3
+<br> And I would ask you something, are you doing something similar like this? are you also expriencing anything like me? or different effects after AI has came into your life? let me know in the comments <3 
+
+\- ***Love Jenn <3***
+
+<br> 
+
 #### This & all projects from this github has been build without AI <br>***The following Documentations have been used in this project***:
 * Markdown documentation - [MarkDownGuide.org](https://www.markdownguide.org/basic-syntax/) 
 * One of the youtube vids that made me decide this change [Mo Bitar - I was a 10x engineer. Now I'm useless.](https://www.youtube.com/watch?v=pzkwn3hu1Cc)
