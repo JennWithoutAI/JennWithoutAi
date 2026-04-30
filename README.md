@@ -23,6 +23,10 @@ So i decided To make rules **to do / not do** certain things while working on pr
 5. Giving myself space to program, so no instant & rapid dopamine **BS** like youtube or tiktok or whatever.
 6. Dont beat myself up about my skills, because this is the great Programmer Reset. 
 7. Doesnt have to be pretty and perfect the first time.
+** AI EXCEPTION FOR LEARNING : **
+   8. When reading stuff like a page of a learning book or website like : [WebGPU Fundamentals](https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html) <br> After reading a page, and taking it in, im asking AI to read the same page, and make Questions about the page and its contents. after i will answer those questions and write them down.
+<br> i havent decided if AI is allowed to say its correct or not, but for now i wont let it judge my answer. <br> *the reason WHY I ask AI, is because when im learning at 1 to 4 am, no one is online and i want to learn. IF anyone is online on my discord (friends that code and enjoy helping) i will request help. otherwise i will use that.
+Nothing more, nothing less. 
 
 #### Writing This while writing my readme & things i expirenced
 This section is made purely to document the feeling & discoveries & issues i came across building this.
