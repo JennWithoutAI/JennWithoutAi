@@ -8,7 +8,7 @@ When autocompleting, i noticed myself iterating things over and over again, and 
 Thus, I came in a bad spiral and for the past months i had 0 fun, motivation and willpower to code.
 
 It even became so bad that i had gotten in a bit of a burnout over the year.
-<br> But the willpower to come back was big, and after watching lots and lots of video's about this happening to other programmers/engineers i decided to go cold turkey on AI.
+<br> But the willpower to come back was big, and after watching lots and lots of video's about this happening to other programmers/engineers i decided to go NEAR cold turkey on AI (see rule 8 for learning purposes) .
 
 ### Rules i follow for my craft
 
