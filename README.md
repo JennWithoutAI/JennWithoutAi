@@ -22,8 +22,8 @@ So i decided To make rules **to do / not do** certain things while working on pr
 4. When googling adding -AI to the search (This is awesome btw)
 5. Giving myself space to program, so no instant & rapid dopamine **BS** like youtube or tiktok or whatever.
 6. Dont beat myself up about my skills, because this is the great Programmer Reset. 
-7. Doesnt have to be pretty and perfect the first time.
-** AI EXCEPTION FOR LEARNING : **
+7. Doesnt have to be pretty and perfect the first time.<br><br>
+** AI EXCEPTION FOR LEARNING : ** <br> <br>
    8. When reading stuff like a page of a learning book or website like : [WebGPU Fundamentals](https://webgpufundamentals.org/webgpu/lessons/webgpu-fundamentals.html) <br> After reading a page, and taking it in, im asking AI to read the same page, and make Questions about the page and its contents. after i will answer those questions and write them down.
 <br> i havent decided if AI is allowed to say its correct or not, but for now i wont let it judge my answer. <br> *the reason WHY I ask AI, is because when im learning at 1 to 4 am, no one is online and i want to learn. IF anyone is online on my discord (friends that code and enjoy helping) i will request help. otherwise i will use that.
 Nothing more, nothing less. 
@@ -35,7 +35,7 @@ This section is made purely to document the feeling & discoveries & issues i cam
 * The Discovery of random things are for some reason exciting, like how things behave and i dont expect things
 * Without knowing i broke my 5th rule, while eating a small snack i just went back to YT, and not even seen 5 shorts and my brain already feels like mush. <br> I am installing a Anti Shorts Right now [link is in the links Section](#this--all-projects-from-this-github-has-been-build-without-ai-brthe-following-documentations-have-been-used-in-this-project)
 * Writing the previous thing, i did HAVE some autocomplete but it wasnt AI autocomplete, so ill update the rules from No autocomplete -> No AI Autocomplete)
-
+* Feeling restricted, but in a good way. feeling in control of myself, without having to rely on a tool that tries to do the work for you.
 #### Ending
 If anyone came this far reading this, i want to say thank you <3
 <br> And I would ask you something, are you doing something similar like this? are you also expriencing anything like me? or different effects after AI has came into your life? let me know in the comments <3 
